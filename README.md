@@ -1,2 +1,2 @@
 # dockerfiles
-container yourself!
+container yourself! mostly my experimental images. here be dragons.
